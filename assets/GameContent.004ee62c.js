@@ -1,0 +1,1 @@
+import{i as o,o as t,f as n,r as s}from"./entry.dadba725.js";const c={},r={class:"game-content-box"};function _(e,a){return t(),n("div",r,[s(e.$slots,"default")])}const l=o(c,[["render",_]]);export{l as _};

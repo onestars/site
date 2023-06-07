@@ -1,1 +1,0 @@
-import{i as o,o as t,f as n,r as s}from"./entry.8e5e84d6.js";const c={},r={class:"game-content-box"};function _(e,a){return t(),n("div",r,[s(e.$slots,"default")])}const l=o(c,[["render",_]]);export{l as _};
